@@ -2,7 +2,7 @@
 
 Goal: Build a project that demonstrates your ability to make GET and POST requests with any two APIs.
 
-### 🏆 Show Off Your Project
+### 🙌 Show Off Your Project
 
 Completed the challenge? Share your project submission here.
 1. Fork this repository
@@ -14,8 +14,14 @@ Completed the challenge? Share your project submission here.
 Note:
 * Make sure your repo is public
 * Explain what your project does and how it works in your project `readme.md` file
-* Hide your pirvate API keys
-* [📝 Learn more hiding API keys](https://dev.to/ptprashanttripathi/how-to-hide-api-key-in-github-repo-2ik9)
+* Hide your private API keys
+  * [📝 Learn more hiding API keys](https://dev.to/ptprashanttripathi/how-to-hide-api-key-in-github-repo-2ik9)
+
+### 🏆 Win a Free Courier Graphic Tee
+
+Tweet your project and tag @trycourier for a chance to win. Requirements:
+* Project must use Courier API to send a notification
+* Project must use one other API
 
 # Projects
 

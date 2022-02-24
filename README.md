@@ -22,6 +22,7 @@ Note:
 Tweet your project and tag @trycourier for a chance to win. Requirements:
 * Project must use Courier API to send a notification
 * Project must use one other API
+* Offer is open for limited time
 
 # Projects
 

@@ -7,7 +7,7 @@ Goal: Build a project that demonstrates your ability to make GET and POST reques
 Completed the challenge? Share your project submission here.
 1. Fork this repository
 2. Edit the `readme.md` file
-3. Add the link to your project's GitHub repo below the "Projects" heading (copy the example)
+3. Add the link to your project's GitHub repo below the ["Projects"](https://github.com/shreythecray/ghostifications/#projects) heading (copy the example)
 5. Commit your changes
 6. Create a PR (pull request) to the `main` branch of my repo
 

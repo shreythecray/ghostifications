@@ -20,7 +20,9 @@ Completed the challenge? Share your project submission here.
 
 # Sample Project:
 
-In index.js you will find "Ghostifications Mood Moniro", a simple Node.js project that uses the following APIs to get your mood as user input and send an email with 
+👻 Boo, the ghost, can only communicate with the real world through API requests. A very peculiar situation, but I don't make the rules. The most effective way to communicate with APIs is through notifications: 📧 emails, 💬 text messages, 📲 push notifications, 📳 direct messages, take your pick.
+
+In index.js you will find "Ghostifications: Messages from the Afterlife", a simple Node.js project that allows 👻 Boo, the ghost, to communicate with the real world from the afterlife through 📞 notifications.
 
 ### Setting Up
 
@@ -56,4 +58,6 @@ In index.js you will find "Ghostifications Mood Moniro", a simple Node.js projec
 
     [📝 Learn more what's happening in the code](https://nodejs.dev/learn/introduction-to-nodejs)
 
-### Making Your First GET Request
+### GET Request: get your 
+
+### POST Request: send notifications with Courier

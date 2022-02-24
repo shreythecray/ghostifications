@@ -77,7 +77,7 @@ Try searching the endpoints above in your browser and seeing what happens.
 
 [📝 Learn more about the CATAAS API](https://cataas.com/#/)
 
-### [Activity] Popular APIs
+### 🛠 Activity: Popular APIs
 
 Twitter API
 * GET request: “get” tweets or data about tweets
@@ -94,7 +94,7 @@ Twilio API
 * What do you think Twilio's POST request does?
 * [📝 Learn more about the Twilio API](https://www.twilio.com/docs/usage/api)
 
-### [Activity] API Use Cases
+### 🛠 Activity: API Use Cases
 
 Take a moment now to think about other use cases for APIs. What type of data would you need access to where having an API might be helpful.
 

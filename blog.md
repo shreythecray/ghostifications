@@ -8,14 +8,6 @@ I never did end up becoming a software engineer, but I did graduate from UC Davi
 
 This workshop is a hands-on Introduction to APIs workshop meant to help you develop a fundamental understanding of APIs and feel comfortable integrating them into your own projects.
 
-### Meet Boo!
-
-Ghostifications is a project I built at Courier to demonstrate how easy it is to integrate notifications into various applications.
-
-> 👻 Boo, the ghost, can only communicate with the real world through API requests. A very peculiar situation, but I don't make the rules. The most effective way to communicate with APIs is through notifications: 📧 emails, 💬 text messages, 📲 push notifications, 📳 direct messages, take your pick.
-
-For this workshop, we will first learn the fundamentals of working with APIs and making GET and POST requests. We will then take these skills to build "Ghostifications: Messages from the Afterlife", a simple Node.js project that allows 👻 Boo, the ghost, to communicate with the real world from the afterlife through 📞 notifications.
-
 ### Why should you care about APIs?
 
 Building a successful project, whether it is for hackathons or classes, requires three main characteristics:
@@ -28,7 +20,15 @@ Building a successful **software product**, requires these same characteristics,
 2. More resources for sustainability: to build a sustainable, you need more time, more money, more people, more of everything
 3. Greature pressure to deliver at a high speed: your users need your product and vice versa as quickly as possible, so that you can start making money as quickly as possible, to get the resources you need to keep building and make a high performing, sustainable product
 
-APIs are an exmaple of many solutions exist to help you deliver a project/product that can satisfy these characteristics.
+APIs are an example of many solutions exist to help you deliver a project/product that can satisfy these characteristics.
+
+### Meet Boo!
+
+Ghostifications is a project I built at Courier to demonstrate how easy it is to integrate notifications into various applications.
+
+> 👻 Boo, the ghost, can only communicate with the real world through API requests. A very peculiar situation, but I don't make the rules. The most effective way to communicate with APIs is through notifications: 📧 emails, 💬 text messages, 📲 push notifications, 📳 direct messages, take your pick.
+
+For this workshop, we will first learn the fundamentals of working with APIs and making GET and POST requests. We will then take these skills to build "Ghostifications: Messages from the Afterlife", a simple Node.js project that allows 👻 Boo, the ghost, to communicate with the real world from the afterlife through 📞 notifications.
 
 ## So, what is an API?
 
@@ -82,14 +82,25 @@ Try searching the endpoints above in your browser and seeing what happens.
 Twitter API
 * GET request: “get” tweets or data about tweets
 * POST request: create, delete, retweet tweets
+* [📝 Learn more about the Twitter API](https://developer.twitter.com/en/docs/twitter-api)
 
 Spotify API
 * What do you think Spotify's GET request does?
 * What do you think Spotify's POST request does?
+* [📝 Learn more about the Spotify API](https://developer.spotify.com/documentation/web-api/)
 
 Twilio API
 * What do you think Twilio's GET request does?
 * What do you think Twilio's POST request does?
+* [📝 Learn more about the Twilio API](https://www.twilio.com/docs/usage/api)
+
+### [Activity] API Use Cases
+
+Take a moment now to think about other use cases for APIs. What type of data would you need access to where having an API might be helpful.
+
+[📝 A collective list of APIs.](https://apilist.fun/)
+
+### Testing APIs
 
 ### Product notifications with Courier
 
@@ -97,4 +108,4 @@ Twilio API
 
 # Final project
 
-[Learn more about the final project](https://github.com/shreythecray/ghostifications)
+[Learn more about the final project](https://github.com/shreythecray/ghostifications#mastering-apis-challenge)

@@ -5,14 +5,17 @@ Goal: Build a project that demonstrates your ability to make GET and POST reques
 ### 🏆 Show Off Your Project
 
 Completed the challenge? Share your project submission here.
-1. Create a public GitHub repo with the code to your project
-2. Make sure that any/all private API keys are not accessible in the public repo
-    [📝 Learn more hiding API keys](https://dev.to/ptprashanttripathi/how-to-hide-api-key-in-github-repo-2ik9)
-3. Add a readme.md file that explains what your project does, how it works, and which APIs you used
-4. Fork this repository
-5. In the `main` branch, edit the readme.md file (this file in your forked repo) and add the link to your project's GitHub repo below these instructions, below the "Projects" heading
-6. Commit your changes
-7. Create a PR (pull request) to the `main` branch of my repo
+1. Fork this repository
+2. Edit the `readme.md` file
+3. Add the link to your project's GitHub repo below the "Projects" heading (copy the example)
+5. Commit your changes
+6. Create a PR (pull request) to the `main` branch of my repo
+
+Note:
+* Make sure your repo is public
+* Explain what your project does and how it works in your project `readme.md` file
+* Hide your pirvate API keys
+* [📝 Learn more hiding API keys](https://dev.to/ptprashanttripathi/how-to-hide-api-key-in-github-repo-2ik9)
 
 # Projects
 
